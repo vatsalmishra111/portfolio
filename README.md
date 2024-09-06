@@ -13,4 +13,3 @@ Technologies Used
 2) CSS: Styles the site for a visually appealing and cohesive design.
 3) JavaScript: Enhances interactivity and dynamic features of the website.
 
-![Screenshot 2024-08-19 220007](https://github.com/user-attachments/assets/3e63269a-0bea-4cdf-b560-2694229cb751)
